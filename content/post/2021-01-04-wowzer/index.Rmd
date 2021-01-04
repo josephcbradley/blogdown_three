@@ -1,0 +1,16 @@
+---
+title: Wowzer
+author: Joseph Bradley
+date: '2021-01-04'
+slug: wowzer
+categories:
+  - wow
+tags:
+  - zer
+---
+
+Wowzer Charlie!
+
+$$
+\frac{dy}{dx} = y(x)
+$$
