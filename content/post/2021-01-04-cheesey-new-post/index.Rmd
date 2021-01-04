@@ -1,0 +1,21 @@
+---
+title: Cheesey New Post
+author: Joseph Bradley
+date: '2021-01-04'
+slug: cheesey-new-post
+categories:
+  - cheese
+tags:
+  - fromage
+---
+
+Voici le cheese:
+
+```{r}
+library(tidyverse)
+
+mpg %>%
+  ggplot() +
+  geom_histogram(aes(x = displ))
+```
+
