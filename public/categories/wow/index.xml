@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wow on A Hugo website</title>
+    <title>wow on Blogdown Three</title>
     <link>/categories/wow/</link>
-    <description>Recent content in wow on A Hugo website</description>
+    <description>Recent content in wow on Blogdown Three</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <copyright>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</copyright>
     <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/wow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wowzer</title>
-      <link>/2021/01/04/wowzer/</link>
+      <link>/post/wowzer/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/01/04/wowzer/</guid>
+      <guid>/post/wowzer/</guid>
       <description>Wowzer Charlie!
 \[ \frac{dy}{dx} = y(x) \]</description>
     </item>
