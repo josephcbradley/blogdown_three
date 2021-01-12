@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Blogdown Three</title>
+    <title>Categories on Hugo Grapes Theme</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on Blogdown Three</description>
+    <description>Recent content in Categories on Hugo Grapes Theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</copyright>
+    <language>en-gb</language>
     <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cheese</title>

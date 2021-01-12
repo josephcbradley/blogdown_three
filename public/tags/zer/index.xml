@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>zer on Blogdown Three</title>
+    <title>zer on Hugo Grapes Theme</title>
     <link>/tags/zer/</link>
-    <description>Recent content in zer on Blogdown Three</description>
+    <description>Recent content in zer on Hugo Grapes Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>© Copyright notice</copyright>
     <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/zer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wowzer</title>
-      <link>/post/wowzer/</link>
+      <link>/posts/wowzer/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/wowzer/</guid>
+      <guid>/posts/wowzer/</guid>
       <description>Wowzer Charlie!
 \[ \frac{dy}{dx} = y(x) \]</description>
     </item>
