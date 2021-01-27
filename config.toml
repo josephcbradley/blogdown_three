@@ -1,6 +1,6 @@
 baseurl = "https://blog.josephcbradley.co.uk/"
 languageCode = "en-gb"
-title = "Hugo Hyde Theme"
+title = "Joseph Bradley"
 theme = "hyde"
 enableEmoji = true
 disqusShortname = "blog-josephcbradley-co-uk"
