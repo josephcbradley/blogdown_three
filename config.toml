@@ -1,4 +1,4 @@
-baseurl = "blog.josephcbradley.co.uk"
+baseurl = "blog.josephcbradley.co.uk/"
 languageCode = "en-gb"
 title = "Hugo Hyde Theme"
 theme = "hyde"
