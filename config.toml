@@ -3,6 +3,7 @@ languageCode = "en-gb"
 title = "Hugo Hyde Theme"
 theme = "hyde"
 enableEmoji = true
+disqusShortname = "blog-josephcbradley-co-uk"
 
 [permalinks]
   post = "/posts/:slug/"
