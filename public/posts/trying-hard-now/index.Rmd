@@ -1,0 +1,10 @@
+---
+title: Trying Hard Now
+author: Joseph Bradley
+date: '2021-01-27'
+slug: trying-hard-now
+categories: []
+tags: []
+Description: ''
+showthedate: yes
+---

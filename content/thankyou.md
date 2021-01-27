@@ -1,7 +1,9 @@
 ---
 title: Thank you
+date: "2016-05-05T21:48:51-07:00"
+showthedate: false
 ---
-# Thanks for signing up!
+### Thanks for signing up!
 
 Your sign-up was successful. You should have received an email about that now. 
 

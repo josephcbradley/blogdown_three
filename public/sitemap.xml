@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.josephcbradley.co.uk/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.josephcbradley.co.uk/post/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.josephcbradley.co.uk/subscribe/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.josephcbradley.co.uk/posts/trying-hard-now/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.josephcbradley.co.uk/categories/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
@@ -19,16 +39,6 @@
   
   <url>
     <loc>https://blog.josephcbradley.co.uk/tags/fromage/</loc>
-    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.josephcbradley.co.uk/</loc>
-    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.josephcbradley.co.uk/post/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,6 +73,11 @@
   </url>
   
   <url>
+    <loc>https://blog.josephcbradley.co.uk/thankyou/</loc>
+    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.josephcbradley.co.uk/posts/hello-r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
@@ -90,14 +105,6 @@
   <url>
     <loc>https://blog.josephcbradley.co.uk/posts/lorem-ipsum/</loc>
     <lastmod>2015-01-01T13:09:13-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.josephcbradley.co.uk/subscribe/</loc>
-  </url>
-  
-  <url>
-    <loc>https://blog.josephcbradley.co.uk/thankyou/</loc>
   </url>
   
 </urlset>
