@@ -30,7 +30,7 @@ mpg %>%
 ```
 Lots of it: 
 
-```{r hist, echo=FALSE, message=FALSE, warning=FALSE}
+```{r hist2, echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
 
 mpg %>%
@@ -41,7 +41,7 @@ mpg %>%
 
 Here's some more:
 
-```{r hist, echo=FALSE, message=FALSE, warning=FALSE}
+```{r hist3, echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
 
 mpg %>%

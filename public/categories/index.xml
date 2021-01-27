@@ -1,27 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hugo Grapes Theme</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on Hugo Grapes Theme</description>
+    <title>Categories on Hugo Hyde Theme</title>
+    <link>https://blog.josephcbradley.co.uk/categories/</link>
+    <description>Recent content in Categories on Hugo Hyde Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.josephcbradley.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cheese</title>
-      <link>/categories/cheese/</link>
+      <link>https://blog.josephcbradley.co.uk/categories/cheese/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/categories/cheese/</guid>
+      <guid>https://blog.josephcbradley.co.uk/categories/cheese/</guid>
       <description></description>
     </item>
     
     <item>
       <title>wow</title>
-      <link>/categories/wow/</link>
+      <link>https://blog.josephcbradley.co.uk/categories/wow/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/categories/wow/</guid>
+      <guid>https://blog.josephcbradley.co.uk/categories/wow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://blog.josephcbradley.co.uk/categories/r/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>https://blog.josephcbradley.co.uk/categories/r/</guid>
       <description></description>
     </item>
     

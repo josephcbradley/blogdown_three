@@ -3,67 +3,97 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://blog.josephcbradley.co.uk/categories/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/cheese/</loc>
+    <loc>https://blog.josephcbradley.co.uk/categories/cheese/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/cheesey-new-post/</loc>
+    <loc>https://blog.josephcbradley.co.uk/posts/cheesey-new-post/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/fromage/</loc>
+    <loc>https://blog.josephcbradley.co.uk/tags/fromage/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://blog.josephcbradley.co.uk/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://blog.josephcbradley.co.uk/post/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://blog.josephcbradley.co.uk/tags/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/wow/</loc>
+    <loc>https://blog.josephcbradley.co.uk/categories/wow/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/wowzer/</loc>
+    <loc>https://blog.josephcbradley.co.uk/posts/wowzer/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/zer/</loc>
+    <loc>https://blog.josephcbradley.co.uk/tags/zer/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/a-plain-markdown-post/</loc>
+    <loc>https://blog.josephcbradley.co.uk/posts/a-plain-markdown-post/</loc>
     <lastmod>2016-12-30T21:49:57-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://blog.josephcbradley.co.uk/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/lorem-ipsum/</loc>
+    <loc>https://blog.josephcbradley.co.uk/subscribe/</loc>
+    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.josephcbradley.co.uk/posts/hello-r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.josephcbradley.co.uk/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.josephcbradley.co.uk/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.josephcbradley.co.uk/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.josephcbradley.co.uk/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.josephcbradley.co.uk/posts/lorem-ipsum/</loc>
     <lastmod>2015-01-01T13:09:13-06:00</lastmod>
   </url>
   
