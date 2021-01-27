@@ -11,7 +11,26 @@ tags:
 
 Voici le cheese:
 
-```{r hsit, echo=FALSE, message=FALSE, warning=FALSE}
+```{js include=FALSE}
+function Scrolldown() {
+     window.scroll(0,300); 
+}
+
+window.onload = Scrolldown;
+```
+
+
+```{r hist, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+
+mpg %>%
+  ggplot() +
+  geom_histogram(aes(x = displ),
+                 bins = 30)
+```
+Lots of it: 
+
+```{r hist2, echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
 
 mpg %>%
@@ -20,3 +39,13 @@ mpg %>%
                  bins = 30)
 ```
 
+Here's some more:
+
+```{r hist3, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+
+mpg %>%
+  ggplot() +
+  geom_histogram(aes(x = displ),
+                 bins = 30)
+```

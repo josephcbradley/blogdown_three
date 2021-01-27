@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-gb"
-title = "Hugo Grapes Theme"
+title = "Hugo Hyde Theme"
 theme = "hyde"
 enableEmoji = true
 
@@ -12,9 +12,15 @@ enableEmoji = true
   main = [
       {Name = "About", URL = "/about"},
       {Name = "Posts", URL = "/post"},
+      {Name = "Subscribe", URL = "/subscribe"},
   ]
 
 [params]
 avatar = "img/grapes.svg"
 themeColor = "theme-base-09"
 layoutReverse = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
